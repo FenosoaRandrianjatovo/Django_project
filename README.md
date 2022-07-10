@@ -1,5 +1,5 @@
 # DevSearch
-Sourcode and Resources for Django 2021 Course
+Sourcode and Resources for Django 2022 Course
 
 See the full course here: https://dennisivy.teachable.com/p/django-beginners-course
 
