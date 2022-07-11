@@ -1,7 +1,7 @@
 # DevSearch
 Sourcode and Resources for Django 2022 Course
 
-See the full course here: https://dennisivy.teachable.com/p/django-beginners-course
+See the full tutorial here: https://dennisivy.teachable.com/p/django-beginners-course
 
 
 # Installation
